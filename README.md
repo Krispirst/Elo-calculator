@@ -1,2 +1,2 @@
 # Elo-calculator
-Simple Elo calculator in Python
+Simple Elo rating calculator in Python
